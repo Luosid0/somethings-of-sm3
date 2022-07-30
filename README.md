@@ -4,3 +4,4 @@
 birthday_attack文件中实现了o(n^{1/2})~o(n^{1/2})的生日攻击；
 Rho_attack为o(pho)~o(1);
 依赖于openssl，需重新链接openssl并编译；
+个文件夹附实验图；
